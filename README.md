@@ -30,6 +30,9 @@ A comprehensive Tableau dashboard has been created to visualize:
 - Average prices by neighborhood.
 - Trends over time.
 - Other key insights derived from the data.
+
+
+![Tableau Dashboard](Dashboard.png)
 The Tableau dashboard allows users to interact with the visualizations for deeper insights.
 
 ## Getting Started
