@@ -33,6 +33,10 @@ A comprehensive Tableau dashboard has been created to visualize:
 
 
 ![Tableau Dashboard](Dashboard.png)
+
+
+Here's the link to the interactive dashboard [here](https://public.tableau.com/shared/FS4WG52D5?:display_count=n&:origin=viz_share_link).
+
 The Tableau dashboard allows users to interact with the visualizations for deeper insights.
 
 ## Getting Started
